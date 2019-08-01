@@ -21,7 +21,7 @@ A tool which downloads the official version of Ps1 To Exe from the IPFS
 <table>
 <tr>
 <td><b>Version</b></td>
-<td>3.1.0.0</td>
+<td>3.2.0.0</td>
 </tr>
 <tr>
 <td><b>
@@ -36,20 +36,20 @@ Platform</b></td>
 <tr>
 <td><b>
 Last updated</b></td>
-<td>2019-05-18</td>
+<td>2019-08-01</td>
 </tr>
 <tr>
 <td><b>
 MD5</b></td>
-<td>7da9743855768f582d626d05d6402b90</td>
+<td>99b25d4db9d189b48b1f9fabb529ff7d</td>
 </tr>
 
 <tr>
 <td><b>
 Inter-Planetary File System (IPFS)</b></td>
 <td>
-<a href="http://127.0.0.1:8080/ipfs/QmdqzZK8uP6AVYxy1jfqoqcay8u59aooff8pgjzegUrfRy" target="_blank">
-QmdqzZK8uP6AVYxy1jfqoqcay8u59aooff8pgjzegUrfRy
+<a href="http://127.0.0.1:8080/ipfs/QmXKxbBygqyTmW7XCWJC4kK378VUGVqnk5oYXGtfdyaYXH" target="_blank">
+QmXKxbBygqyTmW7XCWJC4kK378VUGVqnk5oYXGtfdyaYXH
 </a>
 </td>
 </tr>
